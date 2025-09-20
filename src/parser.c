@@ -1,5 +1,5 @@
 #include <string.h>
-#include "shell.h"
+#include "../shell.h"
 
 // parse input str into arr of args
 
