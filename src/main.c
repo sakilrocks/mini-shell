@@ -4,7 +4,7 @@
 #include <unistd.h>
 #include <sys/types.h>
 #include <sys/wait.h>
-#include "shell.h"
+#include "../shell.h"
 
 int main() {
     char input[MAX_INPUT];
