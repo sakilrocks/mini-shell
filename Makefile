@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -Wall -Wextra -g
+CFLAGS = -Wall -Wextra -g -I src
 SRC = src/main.c src/parser.c
 OUT = mini-shell
 
